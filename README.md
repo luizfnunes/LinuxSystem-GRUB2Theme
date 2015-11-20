@@ -22,7 +22,8 @@ sudo update-grub
 ```
 
 <h3>Supported Resolutions</h3>
-
-800   x 600
-1024  x 768
-10366 x 768
+<ul>
+<li>800   x 600</li>
+<li>1024  x 768</li>
+<li>10366 x 768</li>
+</ul>
