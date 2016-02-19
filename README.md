@@ -25,5 +25,5 @@ sudo update-grub
 <ul>
 <li>800   x 600</li>
 <li>1024  x 768</li>
-<li>10366 x 768</li>
+<li>1366 x 768</li>
 </ul>
