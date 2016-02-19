@@ -21,6 +21,10 @@ GRUB_THEME="/boot/grub/theme/linux-system/theme.txt"
 sudo update-grub
 ```
 
+<h3>Screenshot</h3>
+
+![alt tag](screen.jpg "Screenshot of theme")
+
 <h3>Supported Resolutions</h3>
 <ul>
 <li>800   x 600</li>
